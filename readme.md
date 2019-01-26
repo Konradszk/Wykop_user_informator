@@ -1,9 +1,9 @@
 # Wykop User Informator
 
-Pobiera dane użytkoników wykopu.pl bez uzycia API.
+Pobiera dane użytkowników wykopu.pl bez uzycia API.
 
 ### Funkcjonalności
-- pobieranie wszystich komentarzy z oceną i datą
+- pobieranie wszystkich komentarzy z oceną i datą
 - sortowanie komentarzy względem oceny
 - zapis do pliku
 
